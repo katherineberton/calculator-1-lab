@@ -18,6 +18,7 @@ while True:
     operator = tokens[0]
     num1 = tokens[1]
 
+
     if len(tokens) < 3:
         num2 = "0"
 
